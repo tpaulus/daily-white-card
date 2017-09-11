@@ -3,7 +3,7 @@ Daily White Card
 
 Post a random Card Against Humanity White Card to a GroupMe Group as a fun daily challenge.
 
-Thanks to Chris Hallberg](https://github.com/crhallberg) for their awesome JSON library of CAH cards in JSON form.
+Thanks to [Chris Hallberg](https://github.com/crhallberg) for their awesome JSON library of CAH cards in JSON form.
 Check it out: https://www.crhallberg.com/cah/json/
 
 ### Usage
